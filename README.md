@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m working on Full Stack Web development.<br>🚀 I’m currently learning and exploring DevOps, Web 3.0, blockchain Development.<br>🤝 Connect with me preetampatil2324@gmail.com.</h4>
+<h4 align="left">🔭 I’m working on my skills as Full Stack Web development.<br>🚀 I’m currently learning and exploring DevOps, Web 3.0, blockchain Development.<br>🤝 Connect with me preetampatil2324@gmail.com.<br>💯 Open to Freelance Gigs</h4>
 
 ###
 
